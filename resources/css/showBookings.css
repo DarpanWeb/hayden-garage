@@ -1,0 +1,15 @@
+.time-slots-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.time-slots-table th, .time-slots-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.time-slots-table th {
+  background-color: #f2f2f2;
+}
